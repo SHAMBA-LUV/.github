@@ -33,7 +33,7 @@ The Protocol for an Emotional Economy on-Chain
 🔒 FEES can only be lowered
 🔒 contract owner renounces to admin
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 HOLD LUV EARN LUV 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 */
-The future of value is not scarcity — it is connection.
+The future of value is connection.
 ```
 https://polygonscan.com/token/0x1035760d0f60B35B63660ac0774ef363eAa5456e
 
