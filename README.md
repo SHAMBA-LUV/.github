@@ -1,9 +1,9 @@
 # PHASE 🚀 <a href="https://luv.pythai.net">SHAMBA LUV</a> is pricesless
-SHAMBA LUV<br /><br />
+SHAMBA LUV<br />
 https://polygonscan.com/token/0x1035760d0f60B35B63660ac0774ef363eAa5456e<br /><br />
-ShambaLuvAirdrop<br /><br />
+ShambaLuvAirdrop<br />
 https://polygonscan.com/address/0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51#code<br /><br />
-MultiSend<br /><br />
+MultiSend<br />
 https://polygonscan.com/address/0xDe55B9C14B1a355AEF70787667713560C76cd5f9#code<br /><br />
 
 ```txt
