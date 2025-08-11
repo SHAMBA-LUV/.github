@@ -18,6 +18,7 @@ SHAMBA LUV is a digital gesture designed to spread abundance, fun, joy and LUV a
 
 The Protocol for an Emotional Economy on-Chain
 
+```txt
 /*
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ SHAMBA LUV ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
@@ -33,7 +34,7 @@ The Protocol for an Emotional Economy on-Chain
 🔒 contract owner renounces to admin
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 HOLD LUV EARN LUV 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 */
 The future of value is not scarcity — it is connection.
-
+```
 https://polygonscan.com/token/0x1035760d0f60B35B63660ac0774ef363eAa5456e
 
 In the 20th century, money was scarce and hoarded.
