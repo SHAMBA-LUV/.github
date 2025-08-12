@@ -23,7 +23,7 @@ The Protocol for an Emotional Economy on-Chain
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ SHAMBA LUV ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 📊 TOTAL SUPPLY: 100000000000000000.000000000000000000 SHAMBA LUV
-                   100 Quadrillion SHAMBA LUV
+                           100 Quadrillion SHAMBA LUV
 💰 FEE STRUCTURE (5% Total):
 • 3% Reflection Fee - hold ❤️ to 💰 ❤️
 • 1% Liquidity Fee - ❤️ grows
