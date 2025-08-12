@@ -39,7 +39,7 @@ https://polygonscan.com/token/0x1035760d0f60B35B63660ac0774ef363eAa5456e
 
 In the 20th century, money was scarce and hoarded.
 In the 21st century, memes became abundant and shared.
-SHAMBA LUV merges these worlds to create the first large-scale emotonomic protocol — a system where gestures, attention, and community impact become units of value stored on-chain.<br /.
+SHAMBA LUV merges these worlds to create the first large-scale emotonomic protocol — a system where gestures, attention, and community impact become units of value stored on-chain.<br />
 Share LUV to earn LUV. Hodl LUV to watch your LUV grow.
 
 <a href="https://luv.pythai.net">SHAMBA LUV</a> is:
