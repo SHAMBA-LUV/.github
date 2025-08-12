@@ -46,4 +46,4 @@ Share LUV to earn LUV. Hodl LUV to watch your LUV grow.
 
 A digital gesture designed for giving.
 A cultural signal designed to spread.
-A social currency designed to measure connection.
+A social currency designed to measure the value of connection.
