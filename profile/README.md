@@ -1,4 +1,4 @@
-# PHASE 🚀 <a href="https://luv.pythai.net">SHAMBA LUV</a> is pricesless <a href=://"https://luv.pythai.net>"luv.pythai.net</a>
+# PHASE 🚀 <a href="https://luv.pythai.net">SHAMBA LUV</a> is pricesless <a href=://"https://luv.pythai.net">luv.pythai.net</a>
 SHAMBA LUV contract address on polygon blockchain
 ```txt
 0x1035760d0f60B35B63660ac0774ef363eAa5456e
